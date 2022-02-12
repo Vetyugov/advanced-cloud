@@ -5,7 +5,7 @@ logging:
   level:
     root: INFO
 server:
-  port: 51586
+  port: 51587
 eureka:
   instance:
     hostname: localhost
